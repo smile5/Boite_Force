@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Logo_enise.gif</file>
+        <file>archlinux-icon-crystal-128.png</file>
+        <file>b_1_q_0_p_0.jpg.png</file>
+        <file>Logo_ecl.png</file>
+        <file>mchp.png</file>
+        <file>open-hardware-high-resolution-transparent-png-logo-large-ohw.png</file>
+        <file>dessin.png</file>
+    </qresource>
+</RCC>
